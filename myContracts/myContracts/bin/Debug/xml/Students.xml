@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studentcontract>
+  <student studentid="333">
+    <name>npy</name>
+    <sex>男</sex>
+    <age>15</age>
+    <birthdate>2004-02-05</birthdate>
+    <phone>fsdaf</phone>
+    <homeaddress>e</homeaddress>
+    <email>1212@11.com</email>
+    <profession>dfsf</profession>
+  </student>
+  <student studentid="111">
+    <name>sdfs</name>
+    <sex>女</sex>
+    <age>7</age>
+    <birthdate>2012-06-16</birthdate>
+    <phone>4324</phone>
+    <homeaddress>326525</homeaddress>
+    <email>12</email>
+    <profession>3432</profession>
+  </student>
+  <student studentid="11">
+    <name>erer</name>
+    <sex>男</sex>
+    <age>0</age>
+    <birthdate>2019-11-13</birthdate>
+    <phone>rf</phone>
+    <homeaddress>fd</homeaddress>
+    <email>erger</email>
+    <profession>3432</profession>
+  </student>
+  <student studentid="1111">
+    <name>ref</name>
+    <sex>女</sex>
+    <age>0</age>
+    <birthdate>2019-11-17</birthdate>
+    <phone>sadfasgw</phone>
+    <homeaddress>wef</homeaddress>
+    <email>daf@qq.com</email>
+    <profession>fdsaf</profession>
+  </student>
+  <student studentid="10">
+    <name>wqfq</name>
+    <sex>男</sex>
+    <age>6</age>
+    <birthdate>2013-03-14</birthdate>
+    <phone>24ew2f2</phone>
+    <homeaddress>gqt</homeaddress>
+    <email>13413@qq.com</email>
+    <profession>wrwgr</profession>
+  </student>
+</studentcontract>

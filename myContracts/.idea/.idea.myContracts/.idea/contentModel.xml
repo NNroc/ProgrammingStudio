@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_myContracts.-867715720.00" t="ExcludeRecursive" />
+    <e p="G:\Work\RiderProjects\myContracts" t="IncludeFlat">
+      <e p="myContracts" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form_Add.cs" t="Include" />
+        <e p="Form_Add.Designer.cs" t="Include" />
+        <e p="Form_Add.resx" t="Include" />
+        <e p="Form_Edit.cs" t="Include" />
+        <e p="Form_Edit.Designer.cs" t="Include" />
+        <e p="Form_Edit.resx" t="Include" />
+        <e p="Form_Main.cs" t="Include" />
+        <e p="Form_Main.Designer.cs" t="Include" />
+        <e p="Form_Main.resx" t="Include" />
+        <e p="Form_Search.cs" t="Include" />
+        <e p="Form_Search.Designer.cs" t="Include" />
+        <e p="Form_Search.resx" t="Include" />
+        <e p="image" t="Include">
+          <e p="ADD.png" t="Include" />
+          <e p="BACKUP.png" t="Include" />
+          <e p="DELETE.png" t="Include" />
+          <e p="EDIT.png" t="Include" />
+          <e p="RECOVER.png" t="Include" />
+          <e p="SEARCH.png" t="Include" />
+        </e>
+        <e p="myContracts.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="StudentInfo.cs" t="Include" />
+        <e p="StudentInfoBLL.cs" t="Include" />
+      </e>
+      <e p="myContracts.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SimpleMDIExample.-540553530.00" t="ExcludeRecursive" />
+    <e p="G:\Work\RiderProjects\SimpleMDIExample" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SimpleMDIExample" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="FormDoc.cs" t="Include" />
+        <e p="FormDoc.Designer.cs" t="Include" />
+        <e p="FormDoc.resx" t="Include" />
+        <e p="FormSearch.cs" t="Include" />
+        <e p="FormSearch.Designer.cs" t="Include" />
+        <e p="FormSearch.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="A.png" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="center.png" t="Include" />
+          <e p="COPY.png" t="Include" />
+          <e p="CUT.png" t="Include" />
+          <e p="I.png" t="Include" />
+          <e p="left.png" t="Include" />
+          <e p="PASTE.png" t="Include" />
+          <e p="redo.png" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="righit.png" t="Include" />
+          <e p="SEARCH.png" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+          <e p="U.png" t="Include" />
+          <e p="undo.png" t="Include" />
+        </e>
+        <e p="SimpleMDIExample.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SimpleMDIExample.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

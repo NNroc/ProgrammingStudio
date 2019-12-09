@@ -1,0 +1,9 @@
+G:\Work\RiderProjects\myCalculator\myCalculator\bin\Debug\myCalculator.exe.config
+G:\Work\RiderProjects\myCalculator\myCalculator\bin\Debug\myCalculator.exe
+G:\Work\RiderProjects\myCalculator\myCalculator\bin\Debug\myCalculator.pdb
+G:\Work\RiderProjects\myCalculator\myCalculator\obj\Debug\myCalculator.csprojAssemblyReference.cache
+G:\Work\RiderProjects\myCalculator\myCalculator\obj\Debug\myCalculator.Properties.Resources.resources
+G:\Work\RiderProjects\myCalculator\myCalculator\obj\Debug\myCalculator.csproj.GenerateResource.cache
+G:\Work\RiderProjects\myCalculator\myCalculator\obj\Debug\myCalculator.exe
+G:\Work\RiderProjects\myCalculator\myCalculator\obj\Debug\myCalculator.pdb
+G:\Work\RiderProjects\myCalculator\myCalculator\obj\Debug\myCalculator.Form1.resources

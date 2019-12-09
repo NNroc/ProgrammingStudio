@@ -1,0 +1,56 @@
+C:\Univercity\exp\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Univercity\exp\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Univercity\exp\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Univercity\exp\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Callenge.resources
+G:\Work\homework\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+G:\Work\homework\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+G:\Work\homework\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Callenge.resources
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+G:\Work\homework\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+G:\Work\RiderProjects\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+G:\Work\RiderProjects\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+G:\Work\RiderProjects\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Callenge.resources
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+G:\Work\RiderProjects\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Callenge.resources
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+C:\Users\user\Desktop\npy\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Callenge.resources
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb

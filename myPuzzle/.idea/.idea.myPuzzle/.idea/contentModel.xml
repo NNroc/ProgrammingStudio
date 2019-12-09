@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_myPuzzle.780512000.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Secluded Wind\Desktop\myPuzzle" t="IncludeFlat">
+      <e p="myPuzzle" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CutPicture.cs" t="Include" />
+        <e p="Form_Callenge.cs" t="Include" />
+        <e p="Form_Callenge.Designer.cs" t="Include" />
+        <e p="Form_Callenge.resx" t="Include" />
+        <e p="Form_Main.cs" t="Include" />
+        <e p="Form_Main.Designer.cs" t="Include" />
+        <e p="Form_Main.resx" t="Include" />
+        <e p="Form_Original.cs" t="Include" />
+        <e p="Form_Original.Designer.cs" t="Include" />
+        <e p="Form_Original.resx" t="Include" />
+        <e p="myPuzzle.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="_0.jpg" t="Include" />
+          <e p="_1.jpg" t="Include" />
+          <e p="_2.jpg" t="Include" />
+          <e p="_3.jpg" t="Include" />
+          <e p="_4.jpg" t="Include" />
+          <e p="choose.jpg" t="Include" />
+          <e p="hh.jpg" t="Include" />
+          <e p="success.jpg" t="Include" />
+        </e>
+      </e>
+      <e p="myPuzzle.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
