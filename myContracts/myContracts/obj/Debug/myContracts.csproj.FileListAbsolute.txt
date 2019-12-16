@@ -23,3 +23,15 @@ G:\Work\RiderProjects\myContracts\myContracts\obj\Debug\myContracts.Properties.R
 G:\Work\RiderProjects\myContracts\myContracts\obj\Debug\myContracts.csproj.GenerateResource.cache
 G:\Work\RiderProjects\myContracts\myContracts\obj\Debug\myContracts.exe
 G:\Work\RiderProjects\myContracts\myContracts\obj\Debug\myContracts.pdb
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\bin\Debug\myContracts.exe.config
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\bin\Debug\myContracts.exe
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\bin\Debug\myContracts.pdb
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.csprojAssemblyReference.cache
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.Form_Add.resources
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.Form_Edit.resources
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.Form_Main.resources
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.Form_Search.resources
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.Properties.Resources.resources
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.csproj.GenerateResource.cache
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.exe
+G:\githubuse\ProgrammingStudio\myContracts\myContracts\obj\Debug\myContracts.pdb

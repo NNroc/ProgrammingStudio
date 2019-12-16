@@ -408,7 +408,6 @@ namespace myPuzzle
             this.Enabled = false;
         }
         
-        //TODO 中途不允许换图
         public void startGame()
         {
             timer_usetime.Interval = 1000;

@@ -1,22 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c45f5d27-f2ab-4cc8-a412-f9a3462921ab" name="Default Changelist" comment="" />
+    <list default="true" id="c45f5d27-f2ab-4cc8-a412-f9a3462921ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/.idea/.idea.SimpleMDIExample/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/.idea/.idea.SimpleMDIExample/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/.idea/.idea.SimpleMDIExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/.idea/.idea.SimpleMDIExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/FormSearch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/FormSearch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/bin/Debug/SimpleMDIExample.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/bin/Debug/SimpleMDIExample.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/bin/Debug/SimpleMDIExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/bin/Debug/SimpleMDIExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/obj/Debug/SimpleMDIExample.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/obj/Debug/SimpleMDIExample.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/obj/Debug/SimpleMDIExample.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/obj/Debug/SimpleMDIExample.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/obj/Debug/SimpleMDIExample.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleMDIExample/SimpleMDIExample/obj/Debug/SimpleMDIExample.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/.idea/.idea.myCalculator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/.idea/.idea.myCalculator/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/.idea/.idea.myCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/.idea/.idea.myCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/myCalculator/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/myCalculator/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/myCalculator/bin/Debug/myCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/myCalculator/bin/Debug/myCalculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/myCalculator/bin/Debug/myCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/myCalculator/bin/Debug/myCalculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/myCalculator/obj/Debug/myCalculator.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/myCalculator/obj/Debug/myCalculator.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/myCalculator/obj/Debug/myCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/myCalculator/obj/Debug/myCalculator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myCalculator/myCalculator/obj/Debug/myCalculator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../myCalculator/myCalculator/obj/Debug/myCalculator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.myContracts/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.myContracts/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.myContracts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.myContracts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myContracts/bin/Debug/myContracts.exe" beforeDir="false" afterPath="$PROJECT_DIR$/myContracts/bin/Debug/myContracts.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myContracts/bin/Debug/myContracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/myContracts/bin/Debug/myContracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myContracts/bin/Debug/xml/Students.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myContracts/bin/Debug/xml/Students.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myContracts/obj/Debug/myContracts.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myContracts/obj/Debug/myContracts.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myContracts/obj/Debug/myContracts.exe" beforeDir="false" afterPath="$PROJECT_DIR$/myContracts/obj/Debug/myContracts.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myContracts/obj/Debug/myContracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/myContracts/obj/Debug/myContracts.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/myContracts/Form_Search.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/myContracts/Form_Add.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/myContracts/StudentInfoBLL.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/myContracts/Form_Edit.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/myContracts/Form_Main.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/myContracts/StudentInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/myContracts/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/myContracts/Form_Search.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/myContracts/StudentInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/myContracts/Form_Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/myContracts/Form_Edit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/myContracts/StudentInfoBLL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/myContracts/Form_Add.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -31,6 +59,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1TmUGnVGSudLIOWR8aRhvUPk6U3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -88,6 +117,8 @@
       <workItem from="1574412265560" duration="17000" />
       <workItem from="1574662250095" duration="7369000" />
       <workItem from="1575721440783" duration="234000" />
+      <workItem from="1576220711631" duration="3853000" />
+      <workItem from="1576479975578" duration="3110000" />
     </task>
     <servers />
   </component>
@@ -96,6 +127,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

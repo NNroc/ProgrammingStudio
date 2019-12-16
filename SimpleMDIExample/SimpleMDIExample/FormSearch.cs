@@ -26,6 +26,11 @@ namespace SimpleMDIExample
             this.Close();
         }
 
+        /// <summary>
+        /// 查找
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             string str = textSearch.Text;

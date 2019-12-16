@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Secluded Wind\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_myCalculator.-1868140218.00" t="ExcludeRecursive" />
-    <e p="G:\Work\RiderProjects\myCalculator" t="IncludeFlat">
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_myCalculator.1162206408.00" t="ExcludeRecursive" />
+    <e p="G:\githubuse\ProgrammingStudio\myCalculator" t="IncludeFlat">
       <e p="myCalculator" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />

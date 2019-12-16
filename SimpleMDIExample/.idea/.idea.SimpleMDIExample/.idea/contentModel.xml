@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Secluded Wind\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SimpleMDIExample.-540553530.00" t="ExcludeRecursive" />
-    <e p="G:\Work\RiderProjects\SimpleMDIExample" t="IncludeFlat">
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SimpleMDIExample.1787598920.00" t="ExcludeRecursive" />
+    <e p="G:\githubuse\ProgrammingStudio\SimpleMDIExample" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="SimpleMDIExample" t="IncludeRecursive">
         <e p="App.config" t="Include" />

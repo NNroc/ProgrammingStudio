@@ -24,3 +24,14 @@ G:\Work\RiderProjects\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExamp
 G:\Work\RiderProjects\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.exe
 G:\Work\RiderProjects\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.pdb
 G:\Work\RiderProjects\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.FormSearch.resources
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.exe.config
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.exe
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.pdb
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.csprojAssemblyReference.cache
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Form1.resources
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.FrmDoc.resources
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.FormSearch.resources
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Properties.Resources.resources
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.csproj.GenerateResource.cache
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.exe
+G:\githubuse\ProgrammingStudio\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.pdb

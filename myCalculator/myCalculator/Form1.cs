@@ -281,7 +281,7 @@ namespace myCalculator
             }
 
             return false;
-    }
+        }
 
         public static int OperatorPrecedence(char a) //操作符优先级
         {
@@ -333,16 +333,21 @@ namespace myCalculator
             return sum;
         }
 
+        /// <summary>
+        /// 获取答案（=）
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button18_Click(object sender, EventArgs e)
         {
             if (testBrackets() && testPre())
             {
                 Read();
-              ////  MessageBox.Show("m:  "+m.Count.ToString());
-               /// MessageBox.Show("s:  "+s.Count.ToString());
-               /// 
-                double use=m.Peek();
-                while (m.Count>1&&s.Count>0)
+                ////  MessageBox.Show("m:  "+m.Count.ToString());
+                /// MessageBox.Show("s:  "+s.Count.ToString());
+                /// 
+                double use = m.Peek();
+                while (m.Count > 1 && s.Count > 0)
                 {
                     double n2 = m.Pop();
                     double n1 = m.Pop();
@@ -351,6 +356,7 @@ namespace myCalculator
                     m.Push(use);
                     ///MessageBox.Show(use.ToString());
                 }
+
                 testResult.Text = use.ToString();
             }
 
@@ -382,12 +388,12 @@ namespace myCalculator
                     if (s.Count.Equals(0) || s.Peek().Equals('(') || s.Peek().Equals('s'))
                     {
                         s.Push(text[i]);
-                       /// MessageBox.Show(text[i].ToString());//////////
+                        /// MessageBox.Show(text[i].ToString());//////////
                     }
                     else if (OperatorPrecedence(text[i]) > OperatorPrecedence(s.Peek()))
                     {
                         s.Push(text[i]);
-                       /// MessageBox.Show(text[i].ToString());////////////////
+                        /// MessageBox.Show(text[i].ToString());////////////////
                     }
                     else if (s.Count != 0 && m.Count >= 2)
                     {
@@ -398,10 +404,9 @@ namespace myCalculator
                         s1 = s.Pop();
                         double sum = Operat(n1, n2, s1);
                         m.Push(sum);
-                       /// MessageBox.Show(sum.ToString());////////////////
+                        /// MessageBox.Show(sum.ToString());////////////////
                         s.Push(text[i]);
-                       /// MessageBox.Show(text[i].ToString());////////////////
-
+                        /// MessageBox.Show(text[i].ToString());////////////////
                     }
                 }
                 else // s、（ 和 ）
@@ -426,7 +431,7 @@ namespace myCalculator
                             s1 = s.Pop();
                             double sum = Operat(n1, n2, s1);
                             m.Push(sum);
-                           /// MessageBox.Show(sum.ToString());////////////////
+                            /// MessageBox.Show(sum.ToString());////////////////
                         }
 
                         if (s.Peek().Equals('s'))

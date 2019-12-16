@@ -54,3 +54,14 @@ C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.R
 C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
 C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
 C:\Users\Secluded Wind\Desktop\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojAssemblyReference.cache
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Callenge.resources
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.cache
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+G:\githubuse\ProgrammingStudio\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb

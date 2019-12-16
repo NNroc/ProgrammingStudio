@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Secluded Wind\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_myPuzzle.780512000.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Secluded Wind\Desktop\myPuzzle" t="IncludeFlat">
+    <e p="C:\Users\Secluded Wind\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_myPuzzle.-2022269880.00" t="ExcludeRecursive" />
+    <e p="G:\githubuse\ProgrammingStudio\myPuzzle" t="IncludeFlat">
       <e p="myPuzzle" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
